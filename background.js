@@ -1,4 +1,4 @@
-const OPEN_API_KEY = "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" //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"
+const OPEN_API_KEY = "" // add your key
 const API_URL = "https://api.openai.com/v1/chat/completions"
 
 const getResponse = async (question) => {
