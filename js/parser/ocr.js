@@ -1,4 +1,4 @@
-const apiKey = 'AIzaSyC75ZGCpCs7vhEHmePYI3X0JHjsD3f4dqQ';
+const apiKey = ''; // add your google api key
 
 const uploadImageHtml = `<div class="upload-file-area">
                 <h3 class="mb-10 font-medium text-sm">Upload Screenshot:</h3>
